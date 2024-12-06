@@ -1,0 +1,8 @@
+.navbar{
+    background-color: black;
+}
+
+.content{
+    padding: 100px;
+    background-image: url('../../../Pictures/Saved Pictures/about-img.jpg.webp');
+}
